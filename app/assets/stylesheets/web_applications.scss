@@ -5,7 +5,7 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding: 30px 120px;
+  padding: 30px 120px 80px 120px;
 }
 
 .to-top{
@@ -95,9 +95,10 @@
 .h3-web {
   color: black;
   text-align: center;
-  font-size: 36px;
+  font-size: 40px;
   font-weight: bolder;
   margin-top: 100px;
+  text-shadow: 1px 1px 1px white;
 }
 
 
@@ -145,6 +146,8 @@ a.button:hover {
 }
 
 .grid {
+  border: 1px solid black;
+  border-radius: 1%;
   display: inline-block;
   overflow: hidden;
   float: none;
