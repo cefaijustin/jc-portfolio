@@ -16,13 +16,26 @@
 	padding-top: 15px;
 }
 
+.thanks {
+	width: 80%;
+	margin-bottom: 30px;
+	display: inline-block;
+}
+
+.thanks p {
+	font-weight: lighter;
+	font-size: 20px;
+	color: white;
+	float: none;
+	text-align: center;
+}
 
 .say-hello {
 	display: block;
 	position: relative;
 	width: 400px;
 	height: 300px;
-	top: 30%;
+	top: 20%;
 	left: 43%;
 	margin-top: -50px;
   margin-left: -100px;
@@ -182,7 +195,7 @@ body {
 
 .btn--blue:hover,
 .btn--blue:focus {
-  outline: 2px solid white;
+  outline: 1px solid white;
   transform: scale(1.6);
 }
 
